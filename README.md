@@ -1,7 +1,11 @@
 # Housing Price Prediction - Exploratory Data Analysis and Predictive Model Creation
+To view the notebook with visualizations, use this link: https://nbviewer.org/github/leeharry709/housing_price_prediction_model/blob/main/housing_price_exploration_and_prediction_model.ipynb
+
 The purpose of this project was to practice common, yet influential, data exploration techniques as well as creating a predictive model complete with testing 4 different models, hyperparameter tuning, principal component analysis (PCA), feature engineering, and ensembling in order to find the best model for the data. The data used was from a Kaggle competition. After submitting, I got 1243 out of 4023 teams.
 
-To view the notebook with visualizations, use this link: https://nbviewer.org/github/leeharry709/housing_price_prediction_model/blob/main/housing_price_exploration_and_prediction_model.ipynb
+<p align="center">
+  <img src="https://github.com/leeharry709/housing_price_prediction_model/blob/main/submission_placement.png?raw=true" width="75%">
+</p>
 
 ## Explanation of Dataset
 The dataset for the housing price prediction project consists of two main files: "train.csv" (the training set) and "test.csv" (the test set), along with a detailed data description in "data_description.txt." The dataset contains various features related to properties, including factors like building class, zoning classification, lot size, and property condition. The target variable for prediction is "SalePrice," representing the property's sale price in dollars. This dataset provides a comprehensive set of attributes to analyze and build predictive models for housing prices.
